@@ -1,0 +1,21 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+.avathar{
+position: fixed;
+right: 20px;
+width: 30px;
+}
